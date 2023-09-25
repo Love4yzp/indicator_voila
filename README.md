@@ -1,18 +1,34 @@
-# SenseCAP Indicator project template
+<p align="center">
+  <a href="https://wiki.seeedstudio.com/SenseCAP_Indicator_Get_Started/">
+    <img src="asserts/logo-voila.png" width="auto" height="auto" alt="SenseCAP">
+  </a>
+</p>
 
-This is a standalone project, 'indicator_basis', independent from the [SenseCAP Indicator ESP32 example](https://github.com/Seeed-Solution/sensecap_indicator_esp32).
+<div align="center">
+
+# SenseCAP Indicator Voilà
+
+Help you quick create an app on SenseCAP indicator via ESP-IDF.
+
+</div>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Love4yzp/indicator_voila/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Love4yzp/indicator_voila" alt="license">
+  </a>
+  <a href="https://github.com/Love4yzp/indicator_voila/releases">
+    <img src="https://img.shields.io/github/v/release/Love4yzp/indicator_voila?include_prereleases&color=blueviolet" alt="release">
+  </a>
+    <img src="https://img.shields.io/github/repo-size/Love4yzp/indicator_voila" alt="repo-size">
+</p>
+
+
 
 ## Usage
-
-> On GitHub, utilize it as a template.
-
-The two resources mentioned are commonly used to land the SenseCAP Indicator ESP32 project.
-- [The ESP-IDF examples↗](https://github.com/espressif/esp-idf/tree/master/examples) from Espressif. These examples cover a wide range of applications and can be very helpful when developing projects based on the ESP32 microcontroller.
-- [The SenseCAP Indicator ESP32 example↗](https://github.com/Seeed-Solution/sensecap_indicator_esp32) from Seeed Solution. This repository contains the SDK for the SenseCAP Indicator device. It provides several examples demonstrating how to utilize the ESP32 functions for various applications, such as displaying sensor data, implementing time and configuration functions, and facilitating communication using LoRa.
 
 
 ## changelog
 
-### v1.0.0 ###
-2023/07/26
+### v0.0.1 ###
+2023/09/25
 * Initial version.
