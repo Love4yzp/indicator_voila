@@ -26,6 +26,9 @@ Help you quick create an app on SenseCAP indicator via ESP-IDF.
 
 ## Usage
 
+If you need to set up a component, just git clone it to components.
+
+as using LVGL: No Controller - user input and event handling logic lives in the View.
 
 ## changelog
 
